@@ -5,7 +5,7 @@
 
 <br>
 
-I build websites and take photos. Most of what I make lives at **[gavinpajak.com](https://gavinpajak.com)**.
+Most of what I make lives at **[gavinpajak.com](https://gavinpajak.com)**.
 
 ### Sites I've built
 
