@@ -25,10 +25,10 @@ Most of what I make lives at **[gavinpajak.com](https://gavinpajak.com)**.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://gavinpajak.com/proristo/"><img src="assets/proristo.jpg" alt="Proristo launch page"></a>
-      <br><b><a href="https://gavinpajak.com/proristo/">Proristo</a></b>
-      <br><sub>Launch page for an espresso machine built in real-time 3D that comes apart as you scroll.</sub>
-      <br><sub><code>three.js</code> <code>PBR materials</code> <code>vanilla JS</code></sub>
+      <a href="https://gavinpajak.com/dirty-soda-bar/"><img src="assets/dirty-soda-bar.jpg" alt="The Dirty Soda Bar homepage"></a>
+      <br><b><a href="https://gavinpajak.com/dirty-soda-bar/">The Dirty Soda Bar</a></b>
+      <br><sub>An old-school soda bar with a filterable wall of 39 imported sodas and a build-your-own dirty soda picker.</sub>
+      <br><sub><code>HTML</code> <code>CSS</code> <code>vanilla JS</code></sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://gavinpajak.com/no-strings/"><img src="assets/no-strings.jpg" alt="No Strings homepage"></a>
